@@ -1,0 +1,23 @@
+# Roadmaps (local only)
+actionable-roadmap.md
+european-football-analyst-roadmap.md
+
+# Virtual environment
+venv/
+
+# Data
+data/
+
+# Environment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Notebooks (selective — add specific ones to git manually with git add -f)
+notebooks/
+
+# Claude
+.claude/

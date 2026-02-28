@@ -1,0 +1,8 @@
+[project]
+name = "football-valuation-model"
+version = "0.1.0"
+description = "Player valuation framework applying financial asset-pricing logic to football transfer markets."
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 100
