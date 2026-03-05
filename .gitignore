@@ -19,5 +19,8 @@ __pycache__/
 # Notebooks (selective — add specific ones to git manually with git add -f)
 notebooks/
 
+# Scraper (private code)
+scraper/
+
 # Claude
 .claude/
